@@ -1,4 +1,4 @@
-<h2>Hi, I'm Shah, an <a href="https://www.linkedin.com/in/shahsarefin/">IT Specialist</a></h2>
+<h2>Hi, I'm Shah, an <a href="https://www.linkedin.com/in/shahsarefin/">IT Specialist/Aspiring Junior Full Stack Developer</a></h2>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
