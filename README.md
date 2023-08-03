@@ -1,4 +1,4 @@
-<h2>Hi, I'm <a href="https://www.linkedin.com/in/shahsarefin/">Shah,</a> an Aspiring Junior Full Stack Developer</h2>
+<h2>Hi, I'm <a href="https://www.linkedin.com/in/shahsarefin/">Shah,</a> an Aspiring Junior Full Stack Web Developer</h2>
 
 <h2>👨‍💻 Full-Stack Web Development Project:</h2>
 
