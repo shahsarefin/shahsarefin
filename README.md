@@ -9,4 +9,4 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/Tanw33R
-[linkedin]:https://www.linkedin.com/in/shahsarefin/
+[linkedin]:https://www.linkedin.com/in/shahsarefin
