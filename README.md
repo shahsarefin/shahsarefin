@@ -5,7 +5,7 @@ In this program, I have gained familiarity with various programming languages, d
 
 I am committed to continuous learning and have recently been expanding my knowledge in deployment and cloud technologies. This commitment to staying up-to-date with industry trends reflects my dedication to delivering high-quality work and adapting to new challenges.</p>
 
-<a href="https://shahsarefin.github.io/shah_portfolio_site/">PORTFOLIO SITE</a>
+<!-- <a href="https://shahsarefin.github.io/shah_portfolio_site/">PORTFOLIO SITE</a> -->
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
