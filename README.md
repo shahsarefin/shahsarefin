@@ -1,12 +1,13 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Shah Sarefin</font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/shahsarefin/" target="_blank" rel="noreferrer">Aspiring Software Developer/DevOps Engineer</a></font></h3>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Shah Sarefin</font></h1>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/shahsarefin/" target="_blank" rel="noreferrer">Shah</a> is an aspiring Software Developer/DevOps Engineer, exploring the world of coding and automation. Open to learning and collaboration in software development projects.</font></h3>
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
-Focused on Backend development, learning DevOps, and eager to explore new technologies.
-Language Stack
+Interested in Backend development, DevOps, and related technologies.
+Keen on learning about Web Development and Cloud Solutions.
+Programming Language Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" title="HTML" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" title="CSS" width="40" height="40"/>
@@ -14,21 +15,27 @@ Language Stack
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" title="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="Go" title="Go" width="40" height="40"/>
 </p>
-Frameworks
+OS Stack
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" title="Flask" width="40" height="40"/>
-  <!-- Placeholder for FastAPI and Django -->
+  <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="Linux" title="Linux" width="40" height="40"/>
+  <!-- Placeholder for other OS logos -->
 </p>
 Database Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" title="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
+  <!-- Placeholder for other Database logos -->
 </p>
-DevOps and CI/CD
+Dev Stack
 <p align="left">
-  <!-- Placeholder for GitHub Actions -->
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" title="Flask" width="40" height="40"/>
+  <!-- Placeholder for other Dev Stack logos -->
+</p>
+DevOps Stack
+<p align="left">
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" title="AWS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" title="Docker" width="40" height="40"/>
+  <!-- Placeholder for other DevOps Stack logos -->
 </p>
 Project Management Stack
 <p align="left">
@@ -37,12 +44,14 @@ Project Management Stack
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" title="Jira" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" title="Trello" width="40" height="40"/>
 </p>
-Editor
+Editor / IDE I ♥
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" title="VSCode" width="40" height="40"/>
 </p>
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
-  📫 How to reach me **[Email](mailto:shahsarefin@gmail.com)** **[LinkedIn](https://www.linkedin.com/in/shahsarefin/)** 
 </p>
+💬 Ask me about Web Development, Python, and DevOps basics
+📫 How to reach me shahsarefin@gmail.com
+⚡ Fun fact I love exploring new technologies and tools in my free time
