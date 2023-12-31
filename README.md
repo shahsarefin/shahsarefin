@@ -1,8 +1,9 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Shah Sarefin</font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/shahsarefin/" target="_blank" rel="noreferrer">Shah</a> is an aspiring Software Developer/DevOps Engineer, exploring the world of coding and automation. Open to learning and collaboration in software development projects.</font></h3>
+<h1 align="center"><font face="Arial">Shah Arefin</font></h1>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/shahsarefin/" target="_blank" rel="noreferrer">I'm </a> an aspiring Software Developer/DevOps Engineer, exploring the world of coding and automation. Open to learning and collaboration in software development projects.</font></h3>
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 Interested in Backend development, DevOps, and related technologies.
