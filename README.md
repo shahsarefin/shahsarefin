@@ -32,6 +32,7 @@
   <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="Linux" title="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" title="AWS" width="40" height="40"/>
   <!-- Placeholder for GitHub Actions logo -->
+  
 </p>
 
 #### Tools
@@ -42,18 +43,6 @@
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" title="Jira" width="40" height="40"/>
 </p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahsarefin&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahsarefin&layout=compact&theme=dracula" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="right">
-  <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"  />
-</div>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
