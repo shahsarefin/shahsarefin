@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Shah Arefin</font></h1>
+<h1 align="center"><font face="Arial">Shah Sultanul Arefin</font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/shahsarefin/" target="_blank" rel="noreferrer">I'm</a> an aspiring Software Developer, exploring the world of coding and automation. Open to learning and collaboration in software development projects.</font></h3>
 
 <!-- GIF -->
