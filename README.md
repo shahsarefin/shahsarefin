@@ -3,7 +3,7 @@
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/shahsarefin/" target="_blank" rel="noreferrer">I'm</a> an aspiring Software Developer, exploring the world of coding and automation. Open to learning and collaboration in software development projects.</font></h3>
 
 <!-- GIF -->
-<img align="right" height="200" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+<img align="right" height="300" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
 <!-- Tech Stack Section -->
 <img align="left" height="40" width="40" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
