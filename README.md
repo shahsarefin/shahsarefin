@@ -27,7 +27,7 @@
 ┌──┤ SOME PROJECTS I WORKED ON ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/shahsarefin/AdoptADog">AdoptADog</a>
-├─◈ <a href="https://github.com/shahsarefin/KnowledgeCafe">Knowledge Cafe</a>
+├─◈ <a href="https://github.com/shahsarefin/knowledge-cafe">Knowledge Cafe</a>
 ├─◈ <a href="https://github.com/shahsarefin/FoodCMS">Food CMS</a>
 ├─◈ <a href="https://github.com/shahsarefin/WinniE-Gadget">WinniE-Gadget</a>
 ├─◈ <a href="https://github.com/shahsarefin/APIToFront">APIToFront</a>
