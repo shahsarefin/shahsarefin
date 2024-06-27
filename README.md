@@ -26,12 +26,12 @@
 
 ┌──┤ SOME PROJECTS I WORKED ON ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/shahsarefin/AdoptADog">AdoptADog</a>
+├─◈ <a href="https://github.com/shahsarefin/Intro-To-Rails-Project-Shah">AdoptADog</a>
 ├─◈ <a href="https://github.com/shahsarefin/knowledge-cafe">Knowledge Cafe</a>
-├─◈ <a href="https://github.com/shahsarefin/FoodCMS">Food CMS</a>
+├─◈ <a href="https://github.com/shahsarefin/food-cms-project">Food CMS</a>
 ├─◈ <a href="https://github.com/shahsarefin/WinniE-Gadget">WinniE-Gadget</a>
 ├─◈ <a href="https://github.com/shahsarefin/APIToFront">APIToFront</a>
-├─◈ <a href="https://github.com/shahsarefin/shah-portfolio-site">Shah Portfolio Site (V1)</a>
+├─◈ <a href="https://github.com/shahsarefin/shah_portfolio_site">Shah Portfolio Site (V1)</a>
 │
 └───────────────────────────────▰▰▰
 
