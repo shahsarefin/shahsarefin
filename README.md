@@ -22,7 +22,7 @@
 ├─▣ Building Web Applications using React, Angular, Node.
 ├─▣ Polishing skills in Full Stack Development.
 ├─▣ Developing an admin tool with Angular Reactive Forms for a Startup.
-│
+├─▣ Check my work in pinned/other repos in my profile. 
 └───────────────────────────────▰▰▰
 
 ┌──┤ TECH STACK ├─────────▰▰▰
