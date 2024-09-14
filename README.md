@@ -1,44 +1,70 @@
+# 🎯 SHAH SULTANUL AREFIN
 
-<svg width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
-  <path d="M0,20 C20,40 40,0 60,20 C80,40 100,0 120,20 L120,120 L0,120 Z" fill="#6e85b7" />
-</svg>
+> Tech Support Specialist | Web Developer | Cloud Enthusiast
 
-# 🎯 **SHAH SULTANUL AREFIN**
+---
 
-> Versatile Tech Enthusiast | Technical Support | Web Developer
+### 🚀 About Me
 
-### 🚀 **About Me**
-- **Versatile Tech Enthusiast** with experience in Web Development and Technical Support.
-- **Passionate** about building web applications and solving technical challenges.
-- **Open to Opportunities** in technical support, networking, cloud, and web development.
-- **Always Working on New Projects** to challenge myself and grow.
+- Versatile IT Specialist with hands-on experience in Technical Support and Web Development.
+- Passionate about troubleshooting, networking, and creating impactful web applications.
+- Open to opportunities in IT support, helpdesk, networking, cloud, and development roles.
+- Always working on new projects to challenge myself and expand my skill set.
 - 🌐 [Check My Website/Portfolio](https://tanweer-dot-dev.vercel.app)
 
 ---
 
-## 🖥️ **Technical Support Projects**
-- **[Active Directory Deployment in Azure](https://github.com/shahsarefin/Active-Directory-Implementation-in-Azure)** - Managed users, groups, policies, and automation with PowerShell.
-- **[Help Desk Ticketing System (osTicket)](https://github.com/shahsarefin/Help-Desk-Ticketing-System-osTicket-)** - Configured ticket management system with IIS, PHP, MySQL.
-- **[Networking and Security Exploration on Azure](https://github.com/shahsarefin/Networking-and-Security-Exploration-on-Azure)** - Enhanced security and troubleshooting with Network Security Groups.
+### 🛠️ Key Skills
+
+- **Technical Support**: Active Directory, Networking, Troubleshooting, Group Policy, User Management, Ticketing Systems (osTicket).
+- **Web Development**: HTML, CSS, JavaScript, Ruby on Rails, PHP, MySQL, Angular, React.
+- **Cloud & Tools**: Microsoft Azure, Virtual Machines, Network Security Groups, Wireshark, IIS, PowerShell, Git, GitHub.
 
 ---
 
-### 🌐 **Web Development Projects**
-- **[Intro to Rails Project](https://github.com/shahsarefin/Intro-To-Rails-Project-Shah)** - Ruby on Rails app for dog adoption; see live at [Dog Adoption Platform](https://intro-to-rails-project-shah.fly.dev/).
-- **[Movie Info](https://github.com/shahsarefin/movie-info)** - Web app showing movie info with search; see live at [Movie Info App](https://movie-info-shah.vercel.app/).
-- **[Interactive API with Flask and Dash](https://github.com/shahsarefin/Interactive-API-Flask-Dash)** - Web API with data visualization; screenshots at [Web Dev Projects](https://tanweer-dot-dev.vercel.app/web-dev-projects.html).
+### 🖥️ Highlighted IT Projects
+
+- **[Active Directory Deployment in Azure](https://github.com/shahsarefin/Active-Directory-Implementation-in-Azure)**:
+  Deployed AD in Azure, managed users, groups, and policies, demonstrating IT infrastructure and management skills.
+
+- **[Help Desk Ticketing System (osTicket)](https://github.com/shahsarefin/Help-Desk-Ticketing-System-osTicket-)**:
+  Configured a complete ticketing system with roles, departments, and SLAs, highlighting my troubleshooting expertise.
+
+- **[Networking and Security Exploration](https://github.com/shahsarefin/Networking-and-Security-Exploration-on-Azure)**:
+  Analyzed network traffic with Wireshark, improving my security and troubleshooting capabilities in a cloud environment.
 
 ---
 
-### 📚 **Education**
+### 🌐 Highlighted Web Development Projects
+
+- **[Intro to Rails Project](https://github.com/shahsarefin/Intro-To-Rails-Project-Shah)**:
+  Developed a Ruby on Rails application for dog adoption with search functionality and user-friendly interfaces. 
+  **See Live**: [Dog Adoption Platform](https://intro-to-rails-project-shah.fly.dev/).
+
+- **[Movie Info](https://github.com/shahsarefin/movie-info)**:
+  Built a web app displaying popular and top-rated movies with detailed views and search functionality.
+  **See Live**: [Movie Info App](https://movie-info-shah.vercel.app/).
+
+- **[Interactive API with Flask and Dash](https://github.com/shahsarefin/Interactive-API-Flask-Dash)**:
+  Created an interactive web API integrating Flask for backend and Dash for frontend visualizations.
+  **Screenshots Available**: [Web Dev Projects](https://tanweer-dot-dev.vercel.app/web-dev-projects.html).
+
+---
+
+### 🎓 Education
+
 - **Full Stack Web Development Diploma** - Red River College, Winnipeg, Canada
+  - Focus on Web Security, IT Foundations, HTML, CSS, JavaScript, Ruby, PHP, MySQL, Angular, React.
+  
 - **Bachelor of Science in Computer Science and Engineering** - Metropolitan University
+  - Emphasized core computer science principles, programming, and problem-solving skills.
 
 ---
 
-### 📬 **Contact**
-- **Winnipeg, MB, Canada** | [shah.arefin.dev@gmail.com](mailto:shah.arefin.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shahsarefin)
+### 📬 Contact
 
-<svg width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
-  <path d="M0,20 C20,0 40,40 60,20 C80,0 100,40 120,20 L120,120 L0,120 Z" fill="#6e85b7" />
-</svg>
+- **Location**: Winnipeg, MB, Canada
+- **Email**: [shah.arefin.dev@gmail.com](mailto:shah.arefin.dev@gmail.com)
+- **LinkedIn**: [Shah Sultanul Arefin](https://www.linkedin.com/in/shahsarefin)
+
+---
