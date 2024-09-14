@@ -7,7 +7,7 @@
 ├─▣ <a href="https://tanweer-dot-dev.vercel.app" target="_blank">Check My Website/Portfolio</a>
 └───────────────────────────────▰▰▰
 
-┌──┤ IT SUPPORT PROJECTS ├─────────▰▰▰
+┌──┤ IT PROJECTS ├─────────▰▰▰
 │
 ├─▣ <a href="https://github.com/shahsarefin/Active-Directory-Implementation-in-Azure" target="_blank">Active Directory Deployment in Azure</a>
 │  └─ Deployed Active Directory on Azure, managed users, groups, and group policies, 
