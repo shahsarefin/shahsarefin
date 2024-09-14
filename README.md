@@ -1,3 +1,12 @@
+<style>
+pre {
+  white-space: pre-wrap;
+  overflow-x: auto;
+  max-width: 100%;
+  font-size: 1em;
+}
+</style>
+
 <svg width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
   <path d="M0,20 C20,40 40,0 60,20 C80,40 100,0 120,20 L120,120 L0,120 Z" fill="#6e85b7" />
 </svg>
@@ -15,29 +24,11 @@
 
 ---
 
-<svg width="100%" height="auto">
-  <text x="10" y="20" style="font-weight:bold; font-size:16px;">KEY SKILLS</text>
-
-  <!-- IT Support Skills -->
-  <text x="10" y="50" style="font-size:14px;">🛠 IT Support Skills:</text>
-  <text x="30" y="70" style="font-size:12px; fill: #555;">• Active Directory, Networking, Troubleshooting</text>
-  <text x="30" y="85" style="font-size:12px; fill: #555;">• Group Policy, User Management</text>
-
-  <!-- Web Development Skills -->
-  <text x="10" y="110" style="font-size:14px;">💻 Web Development Skills:</text>
-  <text x="30" y="130" style="font-size:12px; fill: #555;">• HTML, CSS, JavaScript, Ruby on Rails</text>
-  <text x="30" y="145" style="font-size:12px; fill: #555;">• PHP, MySQL, Angular, React</text>
-
-  <!-- Cloud Skills -->
-  <text x="10" y="170" style="font-size:14px;">☁️ Cloud Skills:</text>
-  <text x="30" y="190" style="font-size:12px; fill: #555;">• Microsoft Azure, Virtual Machines</text>
-  <text x="30" y="205" style="font-size:12px; fill: #555;">• Network Security Groups, PowerShell Automation</text>
-
-  <!-- Tools & Technologies -->
-  <text x="10" y="230" style="font-size:14px;">🛠 Tools & Technologies:</text>
-  <text x="30" y="250" style="font-size:12px; fill: #555;">• Wireshark, IIS, Git, GitHub, SQL</text>
-  <text x="30" y="265" style="font-size:12px; fill: #555;">• RESTful APIs</text>
-</svg>
+## 🛠️ **Key Skills**
+- **IT Support Skills**: Active Directory, Networking, Troubleshooting, Group Policy, User Management
+- **Web Development Skills**: HTML, CSS, JavaScript, Ruby on Rails, PHP, MySQL, Angular, React
+- **Cloud Skills**: Microsoft Azure, Virtual Machines, Network Security Groups, PowerShell Automation
+- **Tools & Technologies**: Wireshark, IIS, Git, GitHub, SQL, RESTful APIs
 
 ---
 
