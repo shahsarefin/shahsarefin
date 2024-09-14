@@ -10,7 +10,7 @@
 
 ┌──┤ KEY SKILLS ├─────────▰▰▰
 │
-├─ IT Support: Active Directory, Networking, Troubleshooting, Group Policy, User Management
+├─ IT Support: Active Directory, Networking, Troubleshooting, Group Policy, User Management, Ticketing System
 ├─ Web Development: HTML, CSS, JavaScript, Ruby on Rails, PHP, MySQL, Angular, React, Flask, Dash
 ├─ Cloud: Microsoft Azure, Virtual Machines, Network Security Groups
 ├─ Tools: Wireshark, IIS, PowerShell, Git, GitHub
