@@ -25,22 +25,34 @@
 
 ┌──┤ WEB DEVELOPMENT PROJECTS ├─────────▰▰▰
 │
-├─▣ <a href="https://github.com/YOUR-WEB-PROJECT" target="_blank">Your Web Project 1</a>
-│  └─ Brief description of your web project, highlighting technologies used and features.
+├─▣ <a href="https://github.com/shahsarefin/Intro-To-Rails-Project-Shah" target="_blank">Intro to Rails Project</a>
+│  └─ A simple Ruby on Rails application to facilitate dog adoption, featuring Breed 
+│     information, Owners information, search functionality, and user-friendly interfaces 
+│     for potential adopters. 
+│     See Live: <a href="https://intro-to-rails-project-shah.fly.dev/" target="_blank">Dog Adoption Platform</a>.
 │
-├─▣ <a href="https://github.com/YOUR-WEB-PROJECT" target="_blank">Your Web Project 2</a>
-│  └─ Brief description of your web project, highlighting technologies used and features.
+├─▣ <a href="https://github.com/shahsarefin/movie-info" target="_blank">Movie Info</a>
+│  └─ A web application that provides information about popular, top-rated, and upcoming 
+│     movies. Users can search for movies and view detailed information about each one.
+│     Features a responsive design using styled-components.
+│     See Live: <a href="https://movie-info-shah.vercel.app/" target="_blank">Movie Info App</a>.
+│
+├─▣ <a href="https://github.com/shahsarefin/Interactive-API-Flask-Dash" target="_blank">Interactive API with Flask and Dash</a>
+│  └─ Showcases an interactive web API with Flask for backend operations and Dash for 
+│     frontend data visualization. Includes features like image conversion and dynamic 
+│     data presentation using Plotly.
+│     Screenshots are available in my portfolio: <a href="https://tanweer-dot-dev.vercel.app/web-dev-projects.html" target="_blank">Web Dev Projects</a>.
 │
 └───────────────────────────────▰▰▰
 
 ┌──┤ EDUCATION ├─────────▰▰▰
 │
 ├─▣ **Full Stack Web Development Diploma** - Red River College, Winnipeg, Canada
-│  └─ Gained hands-on experience in frontend and backend development, working with technologies 
-│     like HTML, CSS, JavaScript, Angular, Node.js, and more.
+│  └─ Developed skills in programming, IT foundations, and web security. Worked with 
+│     HTML, CSS, JavaScript, Ruby, PHP, MySQL, Angular, and more.
 │
-├─▣ **Bachelor of Science in Computer Science and Engineering** - Metropolitan University, Bangladesh
-│  └─ Built a strong foundation in computer science principles, programming, and problem-solving skills.
+├─▣ **Bachelor of Science in Computer Science and Engineering** - Metropolitan University
+│  └─ Focused on core computer science principles, programming, and problem-solving skills.
 │
 └───────────────────────────────▰▰▰
 
