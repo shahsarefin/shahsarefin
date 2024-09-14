@@ -15,13 +15,29 @@
 
 ---
 
-### 📊 **Key Skills**
-| Skill Area           | Proficiency  | Description                                  |
-|----------------------|--------------|----------------------------------------------|
-| IT Support           | 🔧🔧🔧🔧🛠️ | AD, Networking, Troubleshooting, Group Policy |
-| Web Development      | 💻💻💻💻💻 | HTML, CSS, JavaScript, Ruby, PHP, React      |
-| Cloud & DevOps       | ☁️☁️☁️🛠️    | Microsoft Azure, Network Security, CI/CD     |
-| Tools                | 🛠️🛠️🛠️🛠️    | Wireshark, IIS, PowerShell, Git, GitHub      |
+<svg width="100%" height="auto">
+  <text x="10" y="20" style="font-weight:bold; font-size:16px;">KEY SKILLS</text>
+
+  <!-- IT Support Skills -->
+  <text x="10" y="50" style="font-size:14px;">🛠 IT Support Skills:</text>
+  <text x="30" y="70" style="font-size:12px; fill: #555;">• Active Directory, Networking, Troubleshooting</text>
+  <text x="30" y="85" style="font-size:12px; fill: #555;">• Group Policy, User Management</text>
+
+  <!-- Web Development Skills -->
+  <text x="10" y="110" style="font-size:14px;">💻 Web Development Skills:</text>
+  <text x="30" y="130" style="font-size:12px; fill: #555;">• HTML, CSS, JavaScript, Ruby on Rails</text>
+  <text x="30" y="145" style="font-size:12px; fill: #555;">• PHP, MySQL, Angular, React</text>
+
+  <!-- Cloud Skills -->
+  <text x="10" y="170" style="font-size:14px;">☁️ Cloud Skills:</text>
+  <text x="30" y="190" style="font-size:12px; fill: #555;">• Microsoft Azure, Virtual Machines</text>
+  <text x="30" y="205" style="font-size:12px; fill: #555;">• Network Security Groups, PowerShell Automation</text>
+
+  <!-- Tools & Technologies -->
+  <text x="10" y="230" style="font-size:14px;">🛠 Tools & Technologies:</text>
+  <text x="30" y="250" style="font-size:12px; fill: #555;">• Wireshark, IIS, Git, GitHub, SQL</text>
+  <text x="30" y="265" style="font-size:12px; fill: #555;">• RESTful APIs</text>
+</svg>
 
 ---
 
