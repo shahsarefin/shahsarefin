@@ -1,12 +1,3 @@
-<style>
-pre {
-  white-space: pre-wrap;
-  overflow-x: auto;
-  max-width: 100%;
-  font-size: 1em;
-}
-</style>
-
 <svg width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
   <path d="M0,20 C20,40 40,0 60,20 C80,40 100,0 120,20 L120,120 L0,120 Z" fill="#6e85b7" />
 </svg>
