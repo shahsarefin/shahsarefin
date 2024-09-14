@@ -7,8 +7,10 @@
 ### 🚀 About Me
 
 - Versatile IT Specialist with hands-on experience in Technical Support and Web Development.
-- Passionate about troubleshooting, networking, and creating impactful web applications.
-- Open to opportunities in IT support, helpdesk, networking, cloud, and development roles.
+- Completed a co-op as a Full Stack Developer, collaborating on real-world projects and enhancing my troubleshooting skills.
+- Passionate about building web applications and solving technical challenges.
+- Open to opportunities in IT support, networking, cloud, and web development roles.
+- Strong communicator and team player, capable of adapting to new challenges and environments.
 - Always working on new projects to challenge myself and expand my skill set.
 - 🌐 [Check My Website/Portfolio](https://tanweer-dot-dev.vercel.app)
 
@@ -19,6 +21,7 @@
 - **Technical Support**: Active Directory, Networking, Troubleshooting, Group Policy, User Management, Ticketing Systems (osTicket).
 - **Web Development**: HTML, CSS, JavaScript, Ruby on Rails, PHP, MySQL, Angular, React.
 - **Cloud & Tools**: Microsoft Azure, Virtual Machines, Network Security Groups, Wireshark, IIS, PowerShell, Git, GitHub.
+- **Soft Skills**: Effective communication, teamwork, problem-solving, and adaptability in fast-paced environments.
 
 ---
 
@@ -66,5 +69,3 @@
 - **Location**: Winnipeg, MB, Canada
 - **Email**: [shah.arefin.dev@gmail.com](mailto:shah.arefin.dev@gmail.com)
 - **LinkedIn**: [Shah Sultanul Arefin](https://www.linkedin.com/in/shahsarefin)
-
----
