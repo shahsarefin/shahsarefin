@@ -27,12 +27,6 @@
 
 ### 🖥️ Highlighted IT Projects
 
-- **[Active Directory Deployment in Azure](https://github.com/shahsarefin/Active-Directory-Implementation-in-Azure)**:
-  Deployed AD in Azure, managed users, groups, and policies, demonstrating IT infrastructure and management skills.
-
-- **[Help Desk Ticketing System (osTicket)](https://github.com/shahsarefin/Help-Desk-Ticketing-System-osTicket-)**:
-  Configured a complete ticketing system with roles, departments, and SLAs, highlighting my troubleshooting expertise.
-
 - **[Networking and Security Exploration](https://github.com/shahsarefin/Networking-and-Security-Exploration-on-Azure)**:
   Analyzed network traffic with Wireshark, improving my security and troubleshooting capabilities in a cloud environment.
 
