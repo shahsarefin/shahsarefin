@@ -6,8 +6,8 @@
 
 ### 🚀 About Me
 
-- Versatile IT Specialist with hands-on experience in Technical Support and Web Development.
-- Completed a co-op as a Full Stack Developer, collaborating on real-world projects and enhancing my troubleshooting skills.
+- Web Developer and IT Specialist with hands-on experience in Technical Support and Web Development.
+- Worked in a Canada based startup - "Addressico" as a Full Stack Developer.
 - Passionate about building web applications and solving technical challenges.
 - Open to opportunities in IT support, networking, cloud, and web development roles.
 - Strong communicator and team player, capable of adapting to new challenges and environments.
@@ -18,9 +18,9 @@
 
 ### 🛠️ Key Skills
 
-- **Technical Support**: Active Directory, Networking, Troubleshooting, Group Policy, User Management, Ticketing Systems (osTicket).
-- **Web Development**: HTML, CSS, JavaScript, Ruby on Rails, PHP, MySQL, Angular, React.
-- **Cloud & Tools**: Microsoft Azure, Virtual Machines, Network Security Groups, Wireshark, IIS, PowerShell, Git, GitHub.
+- **Web Development**: HTML, CSS, JavaScript, Python, Ruby on Rails, PHP, MySQL, Angular, React.
+- **Cloud & Tools**: Microsoft Azure, Virtual Machines, PowerShell, Git, GitHub.
+- **Technical Support**: Active Directory, Networking, Troubleshooting, office365, Ticketing Systems.
 - **Soft Skills**: Effective communication, teamwork, problem-solving, and adaptability in fast-paced environments.
 
 ---
